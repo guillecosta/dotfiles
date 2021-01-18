@@ -1,10 +1,10 @@
 # Volume keybindings taken from the ArchWiki
 
 # Increase volume
-"pactl set-sink-volume @DEFAULT_SINK@ +1000"
+"pactl set-sink-volume @DEFAULT_SINK@ +10%"
    XF86AudioRaiseVolum
 # Decrease volume
-"pactl set-sink-volume @DEFAULT_SINK@ -1000"
+"pactl set-sink-volume @DEFAULT_SINK@ -10%"
    XF86AudioLowerVolume
 # Mute volume
 "pactl set-sink-mute @DEFAULT_SINK@ toggle"
