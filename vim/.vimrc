@@ -14,6 +14,7 @@ let g:UltiSnipsExpandTrigger='<tab>'
 
 " Haskell
 Plug 'neovimhaskell/haskell-vim'
+Plug 'meck/vim-brittany'
 
 " LaTeX
 Plug 'lervag/vimtex'
@@ -25,7 +26,7 @@ Plug 'dylanaraps/wal.vim'
 call plug#end()
 
 "SETTINGS
-" Line numbers. 
+" Line numbers.
 set number
 set relativenumber
 
