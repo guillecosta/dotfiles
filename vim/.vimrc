@@ -15,6 +15,7 @@ let g:UltiSnipsExpandTrigger='<tab>'
 " Haskell
 Plug 'neovimhaskell/haskell-vim'
 Plug 'meck/vim-brittany'
+Plug 'pbrisbin/vim-syntax-shakespeare'
 
 " LaTeX
 Plug 'lervag/vimtex'
