@@ -1,3 +1,4 @@
 {
-    "sidebar_width": 3
+    "sidebar_width": 2,
+    "notify": "all"
 }
