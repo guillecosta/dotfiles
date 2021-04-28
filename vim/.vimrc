@@ -7,6 +7,7 @@ Plug 'tpope/vim-sensible'
 " IDE-like experience
 Plug 'vim-airline/vim-airline'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'Townk/vim-autoclose'
 
 " Snippets
 Plug 'SirVer/ultisnips'
